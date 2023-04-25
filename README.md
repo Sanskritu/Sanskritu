@@ -18,12 +18,12 @@
 
 ## 🙋‍♂️ About Me<br>
 
-- 🔭 I’m currently working on ...**DSA and React**<br>
-- 🌱 I’m currently learning ... **Python and Machine Learning**<br>
+- 🔭 I’m currently working on **DSA and React**<br>
+- 🌱 I’m currently learning **Python and Machine Learning**<br>
 - 👊🤜 It's always a "me VS me" for me 🫣 <br>
-- 💬 Ask me about ... Data Structures & Algorithms <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" height="38"><br>
-- 📫 How to reach me: ... **gsanskritig23@gmail.com**<br>
-- ⚡ Fun fact: ... I love to solve problems. **I can do leetcode problems all day**<br>
+- 💬 Ask me about Data Structures & Algorithms <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" height="38"><br>
+- 📫 How to reach me: **gsanskritig23@gmail.com**<br>
+- ⚡ Fun fact: I love to solve problems. **I can do leetcode problems all day**<br>
 
 
 
