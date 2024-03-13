@@ -26,7 +26,7 @@
 - ⚡ Fun fact: I love to solve problems. **I can do leetcode problems all day**<br>
 
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskritu&layout=compact)
 
 ## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="38">
 <p align="left">
